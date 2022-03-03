@@ -1,0 +1,10 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "xxx:xxx": {
+            "textures": "textures/items/xxx"
+        }
+      
+    },
+    "texture_name": "atlas.items"
+}
